@@ -23,7 +23,7 @@ Command 'docker-compose' not found, but can be installed with...
 `https://github.com/docker/compose/releases`
 
 Следующая команда загружает свежую версию и сохраняет исполняемый файл в каталоге <br>
-`/usr/local/bin/docker-compose` после чего программа будет доступно под именем
+`/usr/local/bin/docker-compose` после чего программа будет доступна под именем
 `docker-compose`:
 <pre>
 sudo curl -L "https://github.com/docker/compose/releases/download/v2.18.0/docker-compose-$(uname -s)-$(uname -m)" \
